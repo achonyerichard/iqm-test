@@ -20,4 +20,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Deploy on Vercel
 
-Live link is deployed on https://iqm_test.vercel.app
+Live link is deployed on https://iqmtest.vercel.app/
